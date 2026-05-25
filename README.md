@@ -9,6 +9,11 @@ AA Tube is an app for watching YouTube on your car's entertainment screen, allow
 4. Open LSPosed Manager, find AA Tube in the list of modules, and enable it.<br/>
 5. Reboot your device to apply the changes.<br/>
 
+## Voice search assistant
+- AA Tube also supports voice search, allowing you to search for videos hands-free while driving.<br/>
+- Search for videos/songs using Google Assistant or Gemini by pressing a button on the steering wheel, for example.<br/>
+- If this function doesn't work, try disabling YouTube Music/Spotify.
+
 ## Donation
 If you like the application, please consider making a donation:<br/>
 * [BTC](https://www.blockchain.com/explorer/addresses/btc/1FLjU7YLPxw6hggUUPeiBvedkX2UY5B8Zc)<br/>
